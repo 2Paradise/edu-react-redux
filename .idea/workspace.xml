@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1e479a8-2b42-41d2-81cd-fd2809d88820" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ts-react-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Counter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greetings.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReducerSample.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Samplecontext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/github.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Counter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GithubProfileInfo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GithubProfileInfo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GithubUsernameForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GithubUsernameForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoInsert.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/CounterContainer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/GithubProfileLoader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/TodoApp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/createAsyncThunk.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/reducerUtils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/counter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/github.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/github_temp/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/github_temp/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/github_temp/reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/github_temp/thunks.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/github_temp/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/todos.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/todos_temp/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/todos_temp/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/todos_temp/reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/todos_temp/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1fSLJ4p8fXvsFPRSBGOZ9T89k0X" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/modules/github" />
+      <recent name="$PROJECT_DIR$/src/modules/github/index.ts" />
+      <recent name="$PROJECT_DIR$/src/modules/index" />
+      <recent name="$PROJECT_DIR$/src/modules" />
+      <recent name="$PROJECT_DIR$/src/modules/todos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1e479a8-2b42-41d2-81cd-fd2809d88820" name="Default Changelist" comment="" />
+      <created>1596206471508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596206471508</updated>
+      <workItem from="1596206472571" duration="28077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596567711098">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="578" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-907.-1417.3440.1360/0.23.1680.1027@0.23.1680.1027" timestamp="1596567711098" />
+    <state width="1659" height="261" key="GridCell.Tab.0.bottom" timestamp="1596622533688">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state width="1659" height="261" key="GridCell.Tab.0.bottom/-907.-1417.3440.1360/0.23.1680.1027@0.23.1680.1027" timestamp="1596567745465" />
+    <state width="1659" height="261" key="GridCell.Tab.0.bottom/-907.-1417.3440.1417/0.23.1680.970@0.23.1680.970" timestamp="1596601632804" />
+    <state width="1659" height="261" key="GridCell.Tab.0.bottom/0.23.1680.970@0.23.1680.970" timestamp="1596622533688" />
+    <state width="1659" height="261" key="GridCell.Tab.0.center" timestamp="1596622533687">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state width="1659" height="261" key="GridCell.Tab.0.center/-907.-1417.3440.1360/0.23.1680.1027@0.23.1680.1027" timestamp="1596567745464" />
+    <state width="1659" height="261" key="GridCell.Tab.0.center/-907.-1417.3440.1417/0.23.1680.970@0.23.1680.970" timestamp="1596601632803" />
+    <state width="1659" height="261" key="GridCell.Tab.0.center/0.23.1680.970@0.23.1680.970" timestamp="1596622533687" />
+    <state width="1659" height="261" key="GridCell.Tab.0.left" timestamp="1596622533686">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state width="1659" height="261" key="GridCell.Tab.0.left/-907.-1417.3440.1360/0.23.1680.1027@0.23.1680.1027" timestamp="1596567745464" />
+    <state width="1659" height="261" key="GridCell.Tab.0.left/-907.-1417.3440.1417/0.23.1680.970@0.23.1680.970" timestamp="1596601632802" />
+    <state width="1659" height="261" key="GridCell.Tab.0.left/0.23.1680.970@0.23.1680.970" timestamp="1596622533686" />
+    <state width="1659" height="261" key="GridCell.Tab.0.right" timestamp="1596622533687">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state width="1659" height="261" key="GridCell.Tab.0.right/-907.-1417.3440.1360/0.23.1680.1027@0.23.1680.1027" timestamp="1596567745465" />
+    <state width="1659" height="261" key="GridCell.Tab.0.right/-907.-1417.3440.1417/0.23.1680.970@0.23.1680.970" timestamp="1596601632804" />
+    <state width="1659" height="261" key="GridCell.Tab.0.right/0.23.1680.970@0.23.1680.970" timestamp="1596622533687" />
+    <state x="505" y="236" width="670" height="676" key="search.everywhere.popup" timestamp="1596601590700">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="505" y="236" width="670" height="676" key="search.everywhere.popup/-907.-1417.3440.1417/0.23.1680.970@0.23.1680.970" timestamp="1596601590700" />
+  </component>
+</project>
